@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Amwebex/static/css/main.da390ac2.css",
-    "main.js": "/Amwebex/static/js/main.388f891a.js",
+    "main.css": "/Amwebex/static/css/main.eecd7890.css",
+    "main.js": "/Amwebex/static/js/main.34e23c19.js",
     "static/js/787.fb771931.chunk.js": "/Amwebex/static/js/787.fb771931.chunk.js",
     "static/media/color-sharp.png": "/Amwebex/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Amwebex/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -29,12 +29,12 @@
     "static/media/arrow2.svg": "/Amwebex/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/Amwebex/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/Amwebex/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.da390ac2.css.map": "/Amwebex/static/css/main.da390ac2.css.map",
-    "main.388f891a.js.map": "/Amwebex/static/js/main.388f891a.js.map",
+    "main.eecd7890.css.map": "/Amwebex/static/css/main.eecd7890.css.map",
+    "main.34e23c19.js.map": "/Amwebex/static/js/main.34e23c19.js.map",
     "787.fb771931.chunk.js.map": "/Amwebex/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da390ac2.css",
-    "static/js/main.388f891a.js"
+    "static/css/main.eecd7890.css",
+    "static/js/main.34e23c19.js"
   ]
 }
