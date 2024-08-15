@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Amwebex/static/css/main.eecd7890.css",
-    "main.js": "/Amwebex/static/js/main.a479400f.js",
+    "main.css": "/Amwebex/static/css/main.a9ebf0dc.css",
+    "main.js": "/Amwebex/static/js/main.c1f97702.js",
     "static/js/787.fb771931.chunk.js": "/Amwebex/static/js/787.fb771931.chunk.js",
     "static/media/color-sharp.png": "/Amwebex/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Amwebex/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -23,18 +23,19 @@
     "static/media/meter1.svg": "/Amwebex/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
     "static/media/meter3.svg": "/Amwebex/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
     "static/media/logo.svg": "/Amwebex/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/whatsapp.svg": "/Amwebex/static/media/whatsapp.1b8a6610003f568d176f8fb609b7c757.svg",
     "static/media/nav-icon3.svg": "/Amwebex/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "static/media/nav-icon1.svg": "/Amwebex/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "index.html": "/Amwebex/index.html",
     "static/media/arrow2.svg": "/Amwebex/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/Amwebex/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/Amwebex/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.eecd7890.css.map": "/Amwebex/static/css/main.eecd7890.css.map",
-    "main.a479400f.js.map": "/Amwebex/static/js/main.a479400f.js.map",
+    "main.a9ebf0dc.css.map": "/Amwebex/static/css/main.a9ebf0dc.css.map",
+    "main.c1f97702.js.map": "/Amwebex/static/js/main.c1f97702.js.map",
     "787.fb771931.chunk.js.map": "/Amwebex/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eecd7890.css",
-    "static/js/main.a479400f.js"
+    "static/css/main.a9ebf0dc.css",
+    "static/js/main.c1f97702.js"
   ]
 }
