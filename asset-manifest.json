@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Amwebex/static/css/main.a9ebf0dc.css",
+    "main.css": "/Amwebex/static/css/main.e3562fb2.css",
     "main.js": "/Amwebex/static/js/main.c1f97702.js",
     "static/js/787.fb771931.chunk.js": "/Amwebex/static/js/787.fb771931.chunk.js",
     "static/media/color-sharp.png": "/Amwebex/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -30,12 +30,12 @@
     "static/media/arrow2.svg": "/Amwebex/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/Amwebex/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/Amwebex/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.a9ebf0dc.css.map": "/Amwebex/static/css/main.a9ebf0dc.css.map",
+    "main.e3562fb2.css.map": "/Amwebex/static/css/main.e3562fb2.css.map",
     "main.c1f97702.js.map": "/Amwebex/static/js/main.c1f97702.js.map",
     "787.fb771931.chunk.js.map": "/Amwebex/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9ebf0dc.css",
+    "static/css/main.e3562fb2.css",
     "static/js/main.c1f97702.js"
   ]
 }
